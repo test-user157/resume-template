@@ -1,11 +1,15 @@
 # Skills
 # Organizational leadership
 - skill: Python 3
-  description: <li> Experience with OOP, Data Structures, Algorithmic Complexity </li> <li> Research Tool and Statistical Learning </li> <li> Statistical Modelling using StatsModels </li> <li> Familiarity with Computational Methods like Dynamic Programming, Stochastic Programming </li>
+  description: <li> Experience with OOP, Data Structures, Algorithmic Complexity </li> 
+  <li> Research Tool and Statistical Learning </li> <li> Statistical Modelling using StatsModels </li> 
+  <li> Familiarity with Computational Methods like Dynamic Programming, Stochastic Programming </li>
 
 # Communications strategy
 - skill: Statistical Analysis
-  description: <li> Inferential Statistics </li> <li> Bayesian Inference </li> <li> Regression Analysis </li>
+  description: <li> Inferential Statistics </li> 
+  <li> Bayesian Inference </li> 
+  <li> Regression Analysis </li>
 
 # Digital content development and creation
 - skill: Data Analytics
